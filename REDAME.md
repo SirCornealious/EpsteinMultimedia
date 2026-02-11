@@ -1,1 +1,0 @@
-# Epstein Multimedia Scraper
