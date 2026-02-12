@@ -14,8 +14,6 @@ Phase 3: Expose pedos.
 
 Feel free to work on this and add to the descriptions. 
 ______________________________________________
-PARTIAL DROP
-______________________________________________
 ## Contribute to Descriptions Without Git or Cloning (Recommended for Most People)
 
 This is the simplest way—no command line needed! Everything happens in your web browser. I have added both an Open Office and Excel compatible file with hyperlinks to simplify the process. 
@@ -50,7 +48,8 @@ That's it! The repo owner will review and merge your updates.
 Thank you for contributing!
 
 
-
+______________________________________________
+PARTIAL DROP
 ______________________________________________
 Here's a Markdown table based on the provided partial CSV data. All URLs are hyperlinked via their filenames for easy clicking. I've added an empty **Description** column (for future notes on GitHub). Coordinates in the location field are converted to clickable Google Maps links where possible (using ISO 6709 format; altitude ignored for map).
 
@@ -225,6 +224,7 @@ Note: This is a **partial** dataset (truncated in source). Many entries are plac
 | [EFTA01133546.m4v](https://www.justice.gov/epstein/files/DataSet%209/EFTA01133546.m4v) | video/mp4 | 34.21 | 2013-09-06T20:04:50.000000Z | - |  |
 | [EFTA01137029.m4v](https://www.justice.gov/epstein/files/DataSet%209/EFTA01137029.m4v) | video/mp4 | 2.88 | 2013-03-20T22:47:54.000000Z | - |  |
 | [EFTA01132164.mov](https://www.justice.gov/epstein/files/DataSet%209/EFTA01132164.mov) | video/quicktime | 13.42 | 2013-12-07T22:22:44-0500 | [View on Google Maps](https://www.google.com/maps/search/?api=1&query=26.3057,-80.1310) |  |
+
 
 
 
